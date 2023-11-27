@@ -11,7 +11,7 @@ ctf，夺旗笔记, 也算是对于网络攻防的一种理解。。。\
 - [ ] 11/26【LFI Labs】这是一个大的专题, 不是很了解呢
 - [x] 11/27【Upload-Labs-Linux】【文件上传漏洞】专题, pass01 ([客户端使用js对不合法图片进行检查](https://mp.weixin.qq.com/s?__biz=Mzk0NzMxOTAxMQ==&mid=2247485283&idx=1&sn=92aeb5f9fb2ec066958d9722fc5ca6a5&chksm=c379feeff40e77f9c5133940127f07875f526162bd8ce8a341a592257cd293836d4e56ea15b5&token=1722058134&lang=zh_CN#rd))
 # 渗透测试资源
-- [ ][渗透测试学习笔记](https://learnku.com/docs/server-learn/1.0)
+- [ ] [渗透测试学习笔记](https://learnku.com/docs/server-learn/1.0)
 # 交流点滴
 ## fuzzing (模糊测试)
 - [ ] fuzzing是很tricky的, 经常需要你手工挖到, 然后再去思考如何挖到.
