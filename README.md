@@ -12,6 +12,7 @@ ctf，夺旗笔记, 也算是对于网络攻防的一种理解。。。\
 - [x] 11/27【Upload-Labs-Linux】【文件上传漏洞】专题, pass01 ([客户端使用js对不合法图片进行检查](https://mp.weixin.qq.com/s?__biz=Mzk0NzMxOTAxMQ==&mid=2247485283&idx=1&sn=92aeb5f9fb2ec066958d9722fc5ca6a5&chksm=c379feeff40e77f9c5133940127f07875f526162bd8ce8a341a592257cd293836d4e56ea15b5&token=1722058134&lang=zh_CN#rd))
 - [x] 11/28【Upload-Labbs-Linux】【文件上传漏洞】, Burp intercept and modify mime type to get shell
 - [x] 11/30【Upload-Labbs-Linux】【文件上传漏洞】, 还是Burp修改文件类型. 今天参加软件大会志愿者, 老师们真是越老越吃香呀, 羡慕... 
+- [x] 12/01【学习】参加ChinaSoft大会, 很不孬, 学者竞争论谷歌学术h指数, llm还真不孬嘞
 # 渗透测试资源
 - [ ] [渗透测试学习笔记](https://learnku.com/docs/server-learn/1.0)
 # 交流点滴
