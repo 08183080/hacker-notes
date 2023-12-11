@@ -14,6 +14,7 @@ ctf，夺旗笔记, 也算是对于网络攻防的一种理解。。。\
 - [x] 11/30【Upload-Labbs-Linux】【文件上传漏洞】, 还是Burp修改文件类型. 今天参加软件大会志愿者, 老师们真是越老越吃香呀, 羡慕... 
 - [x] 12/01【学习】参加ChinaSoft大会, 很不孬, 学者竞争论谷歌学术h指数, llm还真不孬嘞
 - [x] 12/04【xss攻击 xss-lab lesson-01】xss攻击是一种前端攻击手段, level1的构造: playboard构造:直接在?name=<script>alert('1');</script> 今天面试若干
+- [x] 12/11【wireshark】misc杂项中的题目, 过滤http协议出来, 肉眼找password, ok
 # 渗透测试资源
 - [ ] [渗透测试学习笔记](https://learnku.com/docs/server-learn/1.0)
 # 交流点滴
