@@ -15,6 +15,7 @@ ctf，夺旗笔记, 也算是对于网络攻防的一种理解。。。\
 - [x] 12/01【学习】参加ChinaSoft大会, 很不孬, 学者竞争论谷歌学术h指数, llm还真不孬嘞
 - [x] 12/04【xss攻击 xss-lab lesson-01】xss攻击是一种前端攻击手段, level1的构造: playboard构造:直接在?name=<script>alert('1');</script> 今天面试若干
 - [x] 12/11【wireshark】misc杂项中的题目, 过滤http协议出来, 肉眼找password, ok
+- [x] 12/12【二维码】misc杂项中的题目, 发现二维码中隐藏的txt文件, 使用ziprello暴力破解zip文件的二维码
 # 渗透测试资源
 - [ ] [渗透测试学习笔记](https://learnku.com/docs/server-learn/1.0)
 # 交流点滴
@@ -25,3 +26,7 @@ ctf，夺旗笔记, 也算是对于网络攻防的一种理解。。。\
 ## 行业黑话
 - [ ] webshell. Webshell的攻击方式通常是通过利用网站的漏洞或弱点，将Webshell文件上传到目标服务器上。一旦Webshell成功上传并执行，攻击者就可以通过它来执行各种操作，例如查看文件系统、上传和下载文件、执行命令、修改文件权限等。
 - [ ] pwn. pwn是网络安全中的俚语, 是own的误写, 意思就是攻方对于目标机器的占有成功
+
+### 武器库
+- [ ] qr research, 查看二维码
+- [ ] ziperello, 暴力破解zip文件
