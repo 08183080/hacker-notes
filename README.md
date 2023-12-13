@@ -16,6 +16,7 @@ ctf，夺旗笔记, 也算是对于网络攻防的一种理解。。。\
 - [x] 12/04【xss攻击 xss-lab lesson-01】xss攻击是一种前端攻击手段, level1的构造: playboard构造:直接在?name=<script>alert('1');</script> 今天面试若干
 - [x] 12/11【wireshark】misc杂项中的题目, 过滤http协议出来, 肉眼找password, ok
 - [x] 12/12【二维码】misc杂项中的题目, 发现二维码中隐藏的txt文件, 使用ziprello暴力破解zip文件的二维码
+- [x] 12/13【你竟然赶我走】将图片后缀改成txt, 在最后发现隐藏的flag...
 # 渗透测试资源
 - [ ] [渗透测试学习笔记](https://learnku.com/docs/server-learn/1.0)
 # 交流点滴
