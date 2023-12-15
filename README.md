@@ -34,9 +34,12 @@ ctf，夺旗笔记, 也算是对于网络攻防的一种理解。。。\
 - [ ] pwn. pwn是网络安全中的俚语, 是own的误写, 意思就是攻方对于目标机器的占有成功
 - [ ] admin, 很多很多web系统默认登陆的管理员用户名
 ## 武器库
-- [ ] qr research, 查看二维码
-- [ ] ziperello, 暴力破解zip文件
+- [ ] Qr research, 查看二维码
+- [ ] Ziperello, 暴力破解zip文件
 - [ ] Burp Suite, Web应用程序渗透测试和安全评估的集成工具
+- [ ] Boofuzz, 模糊测试
+- [ ] Peach, 模糊测试
+- [ ] IDA， 反汇编和逆向工程
 ## 信息源
 - [ ] [腾讯安全玄武实验室](https://weibo.com/xuanwulab#_rnd1446180562141)
 - [ ] 字节跳动无恒实验室
