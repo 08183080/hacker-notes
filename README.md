@@ -69,6 +69,7 @@
 - [ ] MacBook Pro: 耳闻可以增强程序员的生产力
 - [ ] ChatGPT4 Plus: 好想好想...|我需要找个人拼GPT4
 - [ ] GPT4-V: 图文大模型, 具有很强的图文能力, OCR能力的
+- [ ] APPAgent: 基于GPT4-V的app智能操纵agent
 ## 信息源 (Information Sources)
 - [ ] [腾讯安全玄武实验室](https://weibo.com/xuanwulab#_rnd1446180562141)
 - [ ] 字节跳动无恒实验室
@@ -91,3 +92,6 @@
 # code god
 - [ ] Ken Thompson: Unix之父, C之父, qed,grep之父, Go之父, 1983图灵奖得主, 去世时黑客们纷纷留言";" (一行指令的结束, R.I.P)
 - [ ] Linus: Linux之父, just for fun....
+# 程序员创业
+## llm时代
+- [ ] 斯坦福炒虾机器人: 成本22w, 牛逼![代码](https://mobile-aloha.github.io/)
