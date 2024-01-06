@@ -1,7 +1,5 @@
 # hack-notes
-白天是码农, 晚上是黑客, 休闲追柯南\
-ctf，夺旗笔记, 也算是对于网络攻防的一种理解。。。\
-原来,网安中的flag无处不在如斯...\
+白天是码农, 晚上是黑客, 休闲追柯南
 ![Alt text](image.png)
 # 网络攻防录
 # 2023
@@ -79,10 +77,12 @@ ctf，夺旗笔记, 也算是对于网络攻防的一种理解。。。\
 ### 2024年1月
 - [ ] 【第一周】正则表达式
   - [x] 【书籍】【学习正则表达式】
-
+- [ ] 【第二周】Python程序的解释运行流程 
 ## 程序员道友 (code man)
 谦虚向学
 - [ ] zy
 - [ ] 阿浩
+- [ ] 振宇, share site to read English books: zlibrary 
 # code god
 - [ ] Ken Thompson: Unix之父, C之父, qed,grep之父, Go之父, 1983图灵奖得主, 去世时黑客们纷纷留言";" (一行指令的结束, R.I.P)
+- [ ] Linus: Linux之父, just for fun....
