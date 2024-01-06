@@ -33,6 +33,8 @@
   - [x] 1/5 华为 计算 人员点评我的resume, 可以修改突出学校和实习经历 
 - [ ] 1/5【修改resume】将我的resume中2英, 投递red hat, 下周一上午10点面试remote intern
 - [ ] 1/5 散步时候在想有时候天意弄人, 得完完全全拥抱自己提升自己, 顺应天命大势
+- [ ] 1/6【AppAgent 分享】听cumt校友张弛phd的appagent分享, 很牛逼的, agent可以通过twitter验证码!
+  - [ ] 第一直觉, 可以用agent通过web验证码 
 # 渗透测试资源
 - [ ] [渗透测试学习笔记](https://learnku.com/docs/server-learn/1.0)
 # 交流点滴
