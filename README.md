@@ -64,6 +64,8 @@
 - [ ] RegExr: 在线正则操练网站 [Learn, Build, & Test RegExr](https://regexr.com/)
 - [ ] Vim: vi的增强版, 代码编辑器
 - [ ] Notepad++: notepad的增强版, 不错的代码编辑器, 内置的RE搜索模块是Perl写的模块
+- [ ] MacBook Pro: 耳闻可以增强程序员的生产力
+- [ ] ChatGPT4 Plus: 好想好想...
 ## 信息源 (Information Sources)
 - [ ] [腾讯安全玄武实验室](https://weibo.com/xuanwulab#_rnd1446180562141)
 - [ ] 字节跳动无恒实验室
