@@ -69,6 +69,8 @@
 - [ ] Notepad++: notepad的增强版, 不错的代码编辑器, 内置的RE搜索模块是Perl写的模块
 - [ ] MacBook Pro: 耳闻可以增强程序员的生产力
 - [ ] ChatGPT4 Plus: 好想好想...|我需要找个人拼GPT4
+  - [ ] 如何给自己的pc配置成功
+  - [ ] 可恶, 我的clash梯子访问openai都被地区限制了。。。 
 - [ ] GPT4-V: 图文大模型, 具有很强的图文能力, OCR能力的
 - [ ] APPAgent: 基于GPT4-V的app智能操纵agent
 ## 信息源 (Information Sources)
