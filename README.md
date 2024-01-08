@@ -106,4 +106,4 @@
 - [ ] Linus: Linux之父, just for fun....
 # 程序员创业
 ## llm时代
-- [ ] 斯坦福炒虾机器人: 成本22w, 牛逼![代码](https://mobile-aloha.github.io/)
+- [ ] 斯坦福炒虾机器人: 成本22w, 牛逼
