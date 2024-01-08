@@ -98,6 +98,9 @@
 - [ ] 振宇, share site to read English books: zlibrary
 ### net friend
 - [ ] 谢乾坤, 爬虫大牛, 目前在上海红杉资本
+- [ ] 崔庆才, 爬虫大牛, 目前在北京微软
+- [ ] 鱼皮, 上海创业
+- [ ] 拓跋阿秀, SAP
 # code god
 - [ ] Ken Thompson: Unix之父, C之父, qed,grep之父, Go之父, 1983图灵奖得主, 去世时黑客们纷纷留言";" (一行指令的结束, R.I.P)
 - [ ] Linus: Linux之父, just for fun....
