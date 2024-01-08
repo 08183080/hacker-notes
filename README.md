@@ -36,7 +36,8 @@
 - [ ] 1/6【AppAgent 分享】听cumt校友张弛phd的appagent分享, 很牛逼的, agent可以通过twitter验证码!
   - [ ] 第一直觉, 可以用agent通过web验证码
 - [x] 1/6【redhat】投递resume
-- [ ] 1/7【模仿游戏 电影】晚上宿舍所有灯全部关闭, 看的这部电影, Turing, great and 悲剧性~ 
+- [x] 1/7【模仿游戏 电影】晚上宿舍所有灯全部关闭, 看的这部电影, Turing, great and 悲剧性~
+- [x] 1/8【社交】结交爬虫大牛 谢乾坤, 可以向他请教一二.  
 # 渗透测试资源
 - [ ] [渗透测试学习笔记](https://learnku.com/docs/server-learn/1.0)
 # 交流点滴
