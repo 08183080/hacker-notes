@@ -40,6 +40,9 @@
 - [x] 1/8【社交】结交**爬虫大牛** 谢乾坤, 可以向他请教一二.
 - [x] 1/8【RedHat interview】和马来西亚的小姐姐中英混杂面试交流, nice~
 - [x] 1/9【最后一天】**今天是最后一天t**, 凌晨爬起来改改代码, 不想睡觉
+- [ ] 1/11【teams】Security Hackathon for Confidential Containers (https://github.com/confidential-containers)|Go和Rust很牛逼
+- [ ] 1/13-1/14【Move 中国开发者大会】| 带老乡吃吃喝喝
+- [ ] 1/15【年会】吃吃喝喝
 # 渗透测试资源
 - [ ] [渗透测试学习笔记](https://learnku.com/docs/server-learn/1.0)
 # 交流点滴
