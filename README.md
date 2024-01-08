@@ -91,9 +91,12 @@
 - [ ] 【第二周】阅读【流畅的Python】(fluent python)
 ## 程序员道友 (code man)
 谦虚向学
+### friend
 - [ ] zy
 - [ ] 阿浩
-- [ ] 振宇, share site to read English books: zlibrary 
+- [ ] 振宇, share site to read English books: zlibrary
+### net friend
+- [ ] 谢乾坤, 爬虫大牛, 目前在上海红杉资本
 # code god
 - [ ] Ken Thompson: Unix之父, C之父, qed,grep之父, Go之父, 1983图灵奖得主, 去世时黑客们纷纷留言";" (一行指令的结束, R.I.P)
 - [ ] Linus: Linux之父, just for fun....
