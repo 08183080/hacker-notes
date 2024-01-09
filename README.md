@@ -41,12 +41,13 @@
 - [x] 1/8【RedHat interview】和马来西亚的小姐姐中英混杂面试交流, nice~
 - [x] 1/9【最后一天】**今天是最后一天t**, 凌晨爬起来改改代码, 不想睡觉
 - [x] 1/9【courses】完成培训的3门课程
-- [ ] 1/9【writing】datafun的根据ppt写作文章搞定
-- [ ] 1/9【download】给我bro下载完整游戏文件
+- [x] 1/9【writing】datafun的根据ppt写作文章搞定
+- [x] 1/9【download】给我bro下载完整游戏文件
 - [ ] 1/9【decision】决策抖音爬虫的难易程度
 - [ ] 1/11【teams】Security Hackathon for Confidential Containers (https://github.com/confidential-containers)|Go和Rust很牛逼
 - [ ] 1/13-1/14【Move 中国开发者大会】| 带老乡吃吃喝喝
 - [ ] 1/15【年会】吃吃喝喝
+- [ ] 某日【宽带续费】给宿管阿姨续费
 # 渗透测试资源
 - [ ] [渗透测试学习笔记](https://learnku.com/docs/server-learn/1.0)
 # 交流点滴
