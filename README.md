@@ -73,7 +73,8 @@
   - [ ] url编码解码,又叫百分号编码，是统一资源定位(URL)编码方式。URL地址（常说网址）规定了常用地数字，字母可以直接使用，另外一批作为特殊用户字符也可以直接用（/,:@等），剩下的其它所有字符必须通过%xx编码处理。
 - [ ] Git, Linus大神写的代码同步和版本管理软件
 - [ ] Github, 全球最大同性交友网站
-- [ ] VScode, 宇宙最强文本编辑器, 超级丰富的插件生态
+- [ ] **VScode**, 宇宙最强文本编辑器, 超级丰富的插件生态
+  - [ ] bito插件: 基于GPT系列的代码助手, 也不错 
 - [ ] Linux, 开源操作系统
 - [ ] VNC Viewer, 开源的远程控制软件
 - [ ] RegExr: 在线正则操练网站 [Learn, Build, & Test RegExr](https://regexr.com/)
@@ -87,6 +88,8 @@
   - [ ] 可恶, 我的clash梯子访问openai都被地区限制了。。。 
 - [ ] GPT4-V: 图文大模型, 具有很强的图文能力, OCR能力的
 - [ ] APPAgent: 基于GPT4-V的app智能操纵agent
+- [ ] **Google**: 毫无疑问, 宇宙最好的搜索引擎
+- [ ] 腾讯会议(meeting): 视频会议写作, 远程办公, 共享桌面, online cooporate解决问题, 很不错
 ## 信息源 (Information Sources)
 - [ ] [腾讯安全玄武实验室](https://weibo.com/xuanwulab#_rnd1446180562141)
 - [ ] 字节跳动无恒实验室
