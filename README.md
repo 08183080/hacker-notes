@@ -90,6 +90,7 @@
 - [ ] APPAgent: 基于GPT4-V的app智能操纵agent
 - [ ] **Google**: 毫无疑问, 宇宙最好的搜索引擎
 - [ ] 腾讯会议(meeting): 视频会议写作, 远程办公, 共享桌面, online cooporate解决问题, 很不错
+- [ ] Ted: ideas worth spreading
 ## 信息源 (Information Sources)
 - [ ] [腾讯安全玄武实验室](https://weibo.com/xuanwulab#_rnd1446180562141)
 - [ ] 字节跳动无恒实验室
