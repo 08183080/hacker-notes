@@ -91,6 +91,8 @@
 - [ ] **Google**: 毫无疑问, 宇宙最好的搜索引擎
 - [ ] 腾讯会议(meeting): 视频会议写作, 远程办公, 共享桌面, online cooporate解决问题, 很不错
 - [ ] Ted: ideas worth spreading
+- [ ] postman: Postman是一款广泛使用的API开发和测试工具。它提供了一个强大的图形界面，让开发人员能够轻松地创建、调试和测试API请求。Postman支持各种常见的HTTP请求方法，如GET、POST、PUT、DELETE等，并允许用户指定请求头、请求参数、请求体等
+  - [ ] 异步加载的cURL复制到postman中import, 然后点击</>导出的python requests代码就可以直接拿过来, 在上面二次开发. [乾坤哥教我的](https://mp.weixin.qq.com/s/a_rSoO8uLujF-cHLKHZ7Jg) 
 ## 信息源 (Information Sources)
 - [ ] [腾讯安全玄武实验室](https://weibo.com/xuanwulab#_rnd1446180562141)
 - [ ] 字节跳动无恒实验室
