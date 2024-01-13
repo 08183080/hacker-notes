@@ -48,7 +48,7 @@
 - [ ] 1/13-1/14【Move 中国开发者大会】| 带老乡吃吃喝喝
 - [ ] 1/15【年会】吃吃喝喝
 - [ ] 某日【宽带续费】给宿管阿姨续费
-- [ ] 1/13【move中国开发者大会】现场很奈斯, chat and talk happy
+- [x] 1/13【move中国开发者大会】现场很奈斯, chat and talk happy
 # 渗透测试资源
 - [ ] [渗透测试学习笔记](https://learnku.com/docs/server-learn/1.0)
 # 交流点滴
