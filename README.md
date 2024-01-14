@@ -49,6 +49,11 @@
 - [ ] 1/15【年会】吃吃喝喝
 - [ ] 某日【宽带续费】给宿管阿姨续费
 - [x] 1/13【move中国开发者大会】现场很奈斯, chat and talk happy
+- [ ] 1/14 继续参加move中国开发者大会, 很好玩, 加了很多大佬
+  - [ ] 【Amber 安全研究员】史跃进, 上海
+  - [ ] 【Amber安全研究员】 Ashley
+  - [ ] 【Movebit 技术骨干】Luis
+  - [ ] 【MoveFun】Jolestar
 # 渗透测试资源
 - [ ] [渗透测试学习笔记](https://learnku.com/docs/server-learn/1.0)
 # 交流点滴
