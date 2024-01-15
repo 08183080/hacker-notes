@@ -126,6 +126,10 @@
 - [ ] 崔庆才, 爬虫大牛, 目前在北京微软
 - [ ] 鱼皮, 上海创业
 - [ ] 拓跋阿秀, SAP
+### code mates (dragon with bros)
+- [ ] 大哥, 深耕 数据库/C++
+- [ ] 二哥, 深耕 RTOS/C++
+- [ ] 三哥, 区块链/C++
 # code god
 - [ ] Ken Thompson: Unix之父, C之父, qed,grep之父, Go之父, 1983图灵奖得主, 去世时黑客们纷纷留言";" (一行指令的结束, R.I.P)
 - [ ] Linus: Linux之父, just for fun....
