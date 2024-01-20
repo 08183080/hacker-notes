@@ -156,6 +156,7 @@
 - [x] 【至暗时刻】【二战/丘吉尔】time is ripe
 - [x] 【模仿游戏】【二战/图灵】有些时候正是人们以为的无用之人, 成就无人敢想之事
 - [x] 【社交网络】【科技/扎克】
+- [x] 【黑客帝国 (matrix)】【科技】There is no spoon, everthing is vitrual. 
 # opensource ativities that I attend
 - [x] 【TON大会】开始混迹社区的起点, 听什么不记得了总之
 - [ ] 【谷歌开发者大会】太偏僻和远了，鸽子了
