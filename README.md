@@ -99,7 +99,8 @@
 - [ ] Ted: ideas worth spreading
 - [ ] Postman: Postman是一款广泛使用的API开发和测试工具. Postman支持各种常见的HTTP请求方法，如GET、POST、PUT、DELETE等，自定义请求头、请求参数、请求体等
   - [ ] 异步加载的cURL复制到postman中import, 然后点击</>导出的python requests代码就可以直接拿过来, 在上面二次开发. [乾坤哥教我的](https://mp.weixin.qq.com/s/a_rSoO8uLujF-cHLKHZ7Jg)
-- [ ] StackOverflow: 全世界程序员技术问答交流网站, Q&A 
+- [ ] StackOverflow: 全世界程序员技术问答交流网站, Q&A
+- [ ] Zlibary: 全球最大的开源book网站
 ## 信息源 (Information Sources)
 - [ ] [腾讯安全玄武实验室](https://weibo.com/xuanwulab#_rnd1446180562141)
 - [ ] 字节跳动无恒实验室
@@ -156,7 +157,8 @@
 - [x] 【至暗时刻】【二战/丘吉尔】time is ripe
 - [x] 【模仿游戏】【二战/图灵】有些时候正是人们以为的无用之人, 成就无人敢想之事
 - [x] 【社交网络】【科技/扎克】
-- [x] 【黑客帝国 (matrix)】【科技】There is no spoon, everthing is vitrual. 
+- [x] 【黑客帝国 (matrix)】【科技】There is no spoon, everthing is vitrual.
+# people that i see
 # opensource ativities that I attend
 - [x] 【TON大会】开始混迹社区的起点, 听什么不记得了总之
 - [ ] 【谷歌开发者大会】太偏僻和远了，鸽子了
