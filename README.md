@@ -145,6 +145,9 @@
 - [ ] 张小龙: 推出Foxmail, 微信之父
 - [ ] 中本聪: 币圈的开启者
 - [ ] Page & 布林: Google创始人, 其中Page提出了Pagerank排序算法
+# product manager
+- [ ] 乔布斯 jobs: 无庸置疑的人物
+- [ ] 张小龙: 中国互联网产品的清流了
 # code ey
 - [ ] suting
 - [ ] jiang jiayi
