@@ -117,6 +117,8 @@
 - [ ] 【第二周】【知识点】Python程序的解释运行流程
 - [ ] 【第二周】阅读【流畅的Python】(fluent python)
 - [x] 【第三周】完成第二周没完成的任务没读完的书
+- [ ] 【第四周】【web开发】实操微软开源的【Web-Dev-For-Beginners】项目, 做个东西出来
+- [ ] 【第四周】【生产力】申请github copilot学生账号
 ## 程序员道友 (code man)
 谦虚向学
 ### friend
