@@ -152,6 +152,13 @@
 - [ ] suting
 - [ ] jiang jiayi
 - [ ] huang shan
+# code team
+## older
+- [ ] zy
+- [ ] 阿浩
+## younger
+- [ ] zhenyu
+- [ ] xueshan
 # 程序员创业
 ## llm时代
 - [ ] 斯坦福炒虾机器人: 成本22w, 牛逼|不过也是滤镜效果
