@@ -272,3 +272,5 @@
 - [ ] git
 - [ ] blockchain
 - [ ] web3
+# 牛逼的人
+- [ ] 张磊: [张磊2017年人大毕业演讲](https://www.bilibili.com/video/BV1uM4y1g7Ye/?spm_id_from=333.337.search-card.all.click&vd_source=7e002a4fb29d232229ab19a2b58619e0)
