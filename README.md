@@ -277,4 +277,11 @@
 - [ ] 张磊: [张磊2017年人大毕业演讲](https://www.bilibili.com/video/BV1uM4y1g7Ye/?spm_id_from=333.337.search-card.all.click&vd_source=7e002a4fb29d232229ab19a2b58619e0)
 - [ ] 张一鸣
   - [ ] [别装了, 人生就3万天](https://www.bilibili.com/video/BV1Vs4y197FF/?spm_id_from=333.337.search-card.all.click&vd_source=7e002a4fb29d232229ab19a2b58619e0)
-  - [ ] [张一鸣的创业之路](https://www.bilibili.com/video/BV1gp4y1B7wu/?spm_id_from=333.337.search-card.all.click&vd_source=7e002a4fb29d232229ab19a2b58619e0) 
+  - [ ] [张一鸣的创业之路](https://www.bilibili.com/video/BV1gp4y1B7wu/?spm_id_from=333.337.search-card.all.click&vd_source=7e002a4fb29d232229ab19a2b58619e0)
+# Core Tech
+- [ ] Jedec
+- [ ] Autosar
+- [ ] PcieSig
+- [ ] SDM
+- [ ] SMBios
+- [ ] Pi
