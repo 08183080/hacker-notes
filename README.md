@@ -239,7 +239,8 @@
 - [x] 【Fluent Python】【Python经典】
   - [x] 很奈斯的书, 可重复多次读  
 # 【英文书】我读过的
-- [ ] 【Alan Turing Decoded】【English/Turing】
+- [x] 【Alan Turing Decoded】【English/Turing】
+  - [x] The Imitation Game, Turing's Machine 
 # 【武侠】我读过的
 - [x] 多情剑客无情剑
 - [x] 边城浪子
