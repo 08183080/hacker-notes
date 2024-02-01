@@ -250,7 +250,9 @@
 - [x] 【Web3+人工智能】【Web3/区块链/分布式/Agent】
 - [x] 【C Primer Plus】【C基础/字典书/查字典就行】
 - [x] 【Fluent Python】【Python经典】
-  - [x] 很奈斯的书, 可重复多次读  
+  - [x] 很奈斯的书, 可重复多次读
+- [x] 【来自未来的人: 冯诺依曼传】【科技/数学/量子/计算机】
+- [x] 【硅谷钢铁侠: 马斯克的冒险人生】【科技/计算机/新能源】  
 # 【英文书】我读过的
 - [x] 【Alan Turing Decoded】【English/Turing】
   - [x] The Imitation Game, Turing's Machine 
