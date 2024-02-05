@@ -87,7 +87,8 @@
 - [ ] Vim: vi的增强版, 代码编辑器
 - [ ] Notepad++: notepad的增强版, 不错的代码编辑器, 内置的RE搜索模块是Perl写的模块
   - [ ] 查找替换的搜索模块用起来很舒服巴适
-  - [ ] 很长的日志试试写入txt文件, notepad就会读截断, 这时候就应该用notepad++打开查看 
+  - [ ] 很长的日志试试写入txt文件, notepad就会读截断, 这时候就应该用notepad++打开查看
+  - [ ] Ctrl+K注释
 - [ ] MacBook Pro: 耳闻可以增强程序员的生产力
 - [ ] ChatGPT4 Plus: 好想好想...|我需要找个人拼GPT4
   - [ ] 如何给自己的pc配置成功
