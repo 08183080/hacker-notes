@@ -331,7 +331,14 @@
 - [ ] 方笑一: 一面之缘
 ## 商业圈
 ## 英特尔 公司
+- [ ] Cynthia, FST下cmrc team的leader
+- [ ] Tang xiaohu, 深耕bios的中年程序员, 我的buddy
 # 和我颇有缘分的人物
 - [ ] suting
 - [ ] huangshan
 - [ ] jiangjiayi
+# 编程心得
+- [ ] **结对编程**是一件很有帮助的事情
+- [ ] 学会调试,将复杂的server和client之间的调试, 抽离出代码逻辑在本地调试, 学会分析
+- [ ] 重构代码的时候增量式改进
+- [ ] 三思而后行, 再多思考思考一些
