@@ -124,9 +124,7 @@
 - [ ] 【第四周】【web开发】实操微软开源的【Web-Dev-For-Beginners】项目, 做个东西出来
 - [ ] 【第四周】【生产力】申请github copilot学生账号
 ### 2024年2月
-- [ ] 【春节寒假】【Linux操作系统 xxx】
-### 2024年2月 & 1月底
-- [ ] 【第一周】完成上周没有完成的那些任务 
+- [ ] 【春节寒假】【Linux操作系统 xxx】开始浸淫Linux源代码吧!
 ## 程序员道友 (code man)
 谦虚向学
 ### friend
@@ -264,7 +262,8 @@
 - [x] 【C Primer Plus】【C基础/字典书/查字典就行】
 - [x] 【Fluent Python】【Python经典】
   - [x] 很奈斯的书, 可重复多次读
-- [x] 【程序员的README】【软件工程方法论】 
+- [x] 【程序员的README】【软件工程方法论】
+- [ ] 【算法图解】
 # 读【英文书】
 - [x] 【Alan Turing Decoded】【English/Turing】
   - [x] The Imitation Game, Turing's Machine 
@@ -340,8 +339,8 @@
 - [ ] 方笑一: 一面之缘
 ## 商业圈
 ## 英特尔 公司
-- [ ] Cynthia, FST下cmrc team的leader
-- [ ] Tang xiaohu, 深耕bios的中年程序员, 我的buddy
+- [ ] Cynthia, FST下cmrc team的leader, 我的manager
+- [ ] Tang xiaohu, 深耕bios的中年程序员, 我的buddy ~
 # 和我颇有缘分的人物
 - [ ] suting
 - [ ] huangshan
