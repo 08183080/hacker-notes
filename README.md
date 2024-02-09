@@ -345,11 +345,10 @@
 ### 英特尔 公司
 - [x] Cynthia, intel下的 FST下的 cmrc team的leader, 我的manager
 - [x] Tang xiaohu, intel的深耕bios的中年程序员, 我的buddy ~
-### 国内互联网
-#### 抖音
 ## 两性情感/婚恋
 - [x] 黄菡, 【非诚勿扰】的情感导师
   - [x] intel公司邀请来的情感导师, 听了一会我跑路了
+## 国内互联网江湖
 ### 抖音
 # 和我颇有缘分的人物
 - [ ] suting
