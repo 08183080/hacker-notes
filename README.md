@@ -124,7 +124,7 @@
 - [ ] 【第四周】【web开发】实操微软开源的【Web-Dev-For-Beginners】项目, 做个东西出来
 - [ ] 【第四周】【生产力】申请github copilot学生账号
 ### 2024年2月
-- [ ] 【春节寒假】【Linux操作系统 xxx】开始浸淫Linux源代码吧!
+- [ ] 【春节寒假 2/10~2/17】【Linux操作系统 xxx】开始浸淫Linux源代码吧!
 ## 程序员道友 (code man)
 谦虚向学
 ### friend
