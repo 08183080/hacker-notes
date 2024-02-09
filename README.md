@@ -334,15 +334,22 @@
 # ideas
 - [ ] 公司最核心的两个模块【支付】和【广告】
 # 优秀的【IP proxy】服务
-# 我见过的最牛逼的人物
+# 我见过的牛逼的人物
 ## 华师大 / 软工 科研圈
-- [ ] 苏亭
+- [x] 苏亭
 ## 华师大 / 文学 圈
-- [ ] 方笑一: 一面之缘
-## 商业圈
+- [x] 方笑一, 【中国诗词大会】的命题人
+  - [x] 和他一场活动见过, 社会名流了属实，很温文尔雅
+  - [x] 交流请教了一番，背了2个诗词, 感觉还不错 
+## 商业圈/科技圈
 ## 英特尔 公司
-- [ ] Cynthia, FST下cmrc team的leader, 我的manager
-- [ ] Tang xiaohu, 深耕bios的中年程序员, 我的buddy ~
+- [x] Cynthia, intel下的 FST下的 cmrc team的leader, 我的manager
+- [x] Tang xiaohu, intel的深耕bios的中年程序员, 我的buddy ~
+## 两性情感/婚恋
+- [x] 黄菡, 【非诚勿扰】的情感导师
+  - [x] intel公司邀请来的情感导师, 听了一会我跑路了
+## 国内互联网
+### 抖音
 # 和我颇有缘分的人物
 - [ ] suting
 - [ ] huangshan
