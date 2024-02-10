@@ -264,6 +264,7 @@
 - [x] 【Fluent Python】【Python经典】
   - [x] 很奈斯的书, 可重复多次读
 - [x] 【程序员的README】【软件工程方法论】
+- [x] 【代码整洁之道】【程序员方法论】 
 - [ ] 【算法图解】
 # 读【英文书】
 - [x] 【Alan Turing Decoded】【English/Turing】
