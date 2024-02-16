@@ -270,6 +270,7 @@
 - [x] 【代码整洁之道】【程序员方法论】 
 - [ ] 【算法图解】
 - [x] 【关键对话: 程序员创富】
+- [x] 【程序员修炼之道: 通向务实之路】 
 # 读【英文书】
 - [x] 【Alan Turing Decoded】【English/Turing】
   - [x] The Imitation Game, Turing's Machine 
