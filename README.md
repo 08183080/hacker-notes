@@ -184,7 +184,7 @@
 - [x] 【黑客帝国 (matrix)】【科技】There is no spoon, everthing is vitrual.
 - [x] 【年会不能停】【都市/讽刺/喜剧】很不错的电影, 闭环|看完之后我喜欢唱【我的未来不是梦】, 假期在景区露天K歌这首!
 - [x] 【想见你】想见你|酸臭爱情罢了...
-- [x] 【一念天堂】等一下, 我好想, 忘了演我自己
+- [x] 【一念天堂】等一下, 我好像, 忘了演我自己
 # people that i see
 # opensource ativities that I attend
 - [x] 【TON大会】开始混迹社区的起点, 听什么不记得了总之
