@@ -183,7 +183,8 @@
 - [x] 【社交网络】【科技/扎克】
 - [x] 【黑客帝国 (matrix)】【科技】There is no spoon, everthing is vitrual.
 - [x] 【年会不能停】【都市/讽刺/喜剧】很不错的电影, 闭环
-- [x] 【想见你】想见你 
+- [x] 【想见你】想见你
+- [ ] 【一念永恒】
 # people that i see
 # opensource ativities that I attend
 - [x] 【TON大会】开始混迹社区的起点, 听什么不记得了总之
