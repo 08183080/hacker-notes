@@ -84,6 +84,7 @@
 - [ ] **VScode**, 宇宙最强文本编辑器, 超级丰富的插件生态
   - [ ] bito插件: 基于GPT系列的代码助手, 也不错
   - [ ] Ctrl+Shift+P: 控制面板【vscode配置c/c++环境】https://zhuanlan.zhihu.com/p/643934671
+  - [ ] If you want to open a file in a new tab that persists until closed manually, **double-click** on the file.
 - [ ] Linux, 开源操作系统
 - [ ] VNC Viewer, 开源的远程控制软件
 - [ ] RegExr: 在线正则操练网站 [Learn, Build, & Test RegExr](https://regexr.com/)
