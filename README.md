@@ -112,6 +112,7 @@
 - [ ] Linux Source Code Online: https://elixir.free-electrons.com/linux/latest/source/kernel
 - [ ] Gitee, 中国代码托管平台: 代码备份保存
 - [ ] Huggingface: 世界AI model和dataset开源分享平台, 2024/2/22注册登录玩玩
+- [ ] SPSS: 斯坦福开源的社交计算数据分析统计软件
 ## 信息源 (Information Sources)
 - [ ] [腾讯安全玄武实验室](https://weibo.com/xuanwulab#_rnd1446180562141)
 - [ ] 字节跳动无恒实验室
