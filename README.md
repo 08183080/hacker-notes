@@ -114,7 +114,7 @@
 - [ ] Huggingface: 世界AI model和dataset开源分享平台, 2024/2/22注册登录玩玩
 - [ ] SPSS: 斯坦福开源的社交计算数据分析统计软件
 - [ ] ClipGrab: 油管视频自动下载器
-- [ ] ffmpeg: 免费开源的跨平台音视频处理集
+- [ ] Ffmpeg: 免费开源的跨平台音视频处理集
 ## 信息源 (Information Sources)
 - [ ] [腾讯安全玄武实验室](https://weibo.com/xuanwulab#_rnd1446180562141)
 - [ ] 字节跳动无恒实验室
