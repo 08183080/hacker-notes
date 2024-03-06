@@ -197,6 +197,7 @@
 - [x] 【飞驰人生2】人车合一, 机会只是在无数次尝试中出现一两次... 
 # people that i see
 # opensource ativities that I attend
+活动记录心得网址转移到: https://github.com/08183080/hacker-activtities, 2024/3/6于斯
 - [x] 【TON大会】开始混迹社区的起点, 听什么不记得了总之
 - [ ] 【谷歌开发者大会】太偏僻和远了，鸽子了
 - [x] 【陆家嘴读书会 当GPT遇见苏轼】当科技遇见人文, 还是很有意思
