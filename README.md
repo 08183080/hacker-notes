@@ -400,6 +400,7 @@
 ### 英特尔 公司
 - [x] Cynthia, intel下的 FST下的 cmrc team的leader, 我的manager
 - [x] Tang xiaohu, intel的深耕bios的中年程序员, 我的buddy ~
+- [x] Dong, Darren: intel server组的老哥, 实力强劲, 热情, 我该向他多多请教!
 ## 两性情感/婚恋
 - [x] 黄菡, 【非诚勿扰】的情感导师
   - [x] intel公司邀请来的情感导师, 听了一会我跑路了
