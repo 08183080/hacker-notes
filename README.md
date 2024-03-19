@@ -115,6 +115,7 @@
 - [ ] SPSS: 斯坦福开源的社交计算数据分析统计软件
 - [ ] ClipGrab: 油管视频自动下载器
 - [ ] Ffmpeg: 免费开源的跨平台音视频处理集
+- [ ] 微信文件传输助手网页版: 公司内网login的漏网之鱼hhh, 可以扫码网页登录传输一些文件ftp
 ## 信息源 (Information Sources)
 - [ ] [腾讯安全玄武实验室](https://weibo.com/xuanwulab#_rnd1446180562141)
 - [ ] 字节跳动无恒实验室
