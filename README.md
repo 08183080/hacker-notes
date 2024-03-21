@@ -116,6 +116,7 @@
 - [ ] ClipGrab: 油管视频自动下载器
 - [ ] Ffmpeg: 免费开源的跨平台音视频处理集
 - [ ] 微信文件传输助手网页版: 公司内网login的漏网之鱼hhh, 可以扫码网页登录传输一些文件ftp
+- [ ] Everything: 快速高效的文件查找工具
 ## 信息源 (Information Sources)
 - [ ] [腾讯安全玄武实验室](https://weibo.com/xuanwulab#_rnd1446180562141)
 - [ ] 字节跳动无恒实验室
