@@ -157,6 +157,7 @@
 - [ ] 二哥, 深耕 RTOS/C++
 - [ ] 三哥, 区块链/C++
 # code god
+在这里记录一下: https://github.com/08183080/hacker-dage
 - [ ] Ken Thompson: Unix之父, C之父, qed,grep之父, Go之父, 1983图灵奖得主, 去世时黑客们纷纷留言";" (一行指令的结束, R.I.P)
 - [ ] Linus: Linux之父, just for fun....
 - [ ] Mark Zuckberg: 脸书创始人
